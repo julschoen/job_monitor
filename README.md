@@ -1,4 +1,4 @@
-# Job Monitor 🔔
+# Job Monitor
 
 A flexible Python script that monitors company job pages and sends Telegram notifications when new positions are posted.
 
@@ -91,7 +91,7 @@ export CHECK_INTERVAL="60"
 
 ## Free Hosting Options
 
-### Option 1: GitHub Actions (Recommended) ⭐
+### Option 1: GitHub Actions (Recommended)
 
 **Best for**: Scheduled checks every 15-60 minutes. Free and reliable.
 
@@ -282,4 +282,4 @@ job_monitor/
 
 ## License
 
-MIT - Use freely!
+MIT
